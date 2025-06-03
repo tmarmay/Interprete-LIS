@@ -85,3 +85,7 @@ ghci Test.hs # carga el interprete y los test
 ```haskell
 eval_ej<int> -- ejecuta el test numero <int>
 ```
+
+---
+
+Nota: primero desarrolle el interprete de una version mas simplificada del lenguaje - ver [.interprete.hs](.interprete.hs) - lo que me ayudo mucho a poder desarrollar el segundo interprete.
